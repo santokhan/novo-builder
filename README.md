@@ -42,6 +42,6 @@
 
 ## TIN - 411912563044
 
-Issue Date: 06-02-2025
-
 ## Trade License - 0105400
+
+Issue Date: 06-02-2025
